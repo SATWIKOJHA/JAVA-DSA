@@ -16,7 +16,7 @@ This repository is a comprehensive collection of Data Structures and Algorithms 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/SATWIKOJHA/JAVA_DSA
+git clone https://github.com/SATWIKOJHA/JAVA-DSA
 ```
 
 ### Compile and Run
